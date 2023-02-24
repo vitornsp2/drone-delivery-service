@@ -5,7 +5,9 @@ API written using .Net core 6 to take input of drones and location and find the 
 ## Run
 
 1 - dotnet run 
+
 2 - It'll open the swagger page
+
 3 - upload the Input.text file
 
 ## Solution
